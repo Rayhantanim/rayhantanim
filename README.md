@@ -1,14 +1,6 @@
 # Hi, I'm Rayhan 👋
 
 I'm a Computer Science student passionate about coding and problem-solving. My goal is to become a skilled software engineer, and I am actively working on projects and sharpening my skills in algorithms, data structures, and software development.
-![](https://scontent-hkg4-2.xx.fbcdn.net/v/t39.30808-6/375060289_1751663145279175_5576132885624035422_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFysofT1aNlmFKFZoDTQHMNdNlXgmmzOjR02VeCabM6NOsVMVIjTemvQtB20zrATim5_UIy5_GIDdP8ByP_iIEv&_nc_ohc=iHT8mlKjWuwQ7kNvgF1xDza&_nc_zt=23&_nc_ht=scontent-hkg4-2.xx&_nc_gid=APJGqUucWw15e7Q86tMd77X&oh=00_AYB73_bcrBf2k8KemYwHAVKwrdjJf9pzqiZsTt-d6Vjxag&oe=673940EA)
-
-
-
-
-
-
-
 
 ## 🔰Skills & Technologies
 - **💠Languages**: Python, JavaScript, C, C++, Java.

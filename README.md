@@ -15,6 +15,9 @@ I'm a Computer Science student passionate about coding and problem-solving. My g
   - **Technologies**: JavaScript, React
   - [GitHub Repo](#)
 -->
+## Let's Connect
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rayhantanim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://bd.linkedin.com/in/rayhanmostafa?trk=people-guest_people_search-card/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/tanim.mostafa.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tanimrayhan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/www.x.com/rytanim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](t.me/rtanim)  
+
 ## Experience
 - **Binary Brains**: Participating in competitive programming and preparing for contests like ICPC.
 
@@ -22,11 +25,12 @@ I'm a Computer Science student passionate about coding and problem-solving. My g
 - Advanced Python programming
 - Data structures and algorithms
 
-## Let's Connect
+
+<!--
 - [LinkedIn](#)
 - [Twitter](#)
 - Email: rayhan.mostafa321@example.com
-
+-->
 <!--
 ## Hi there 👋
 **Rayhantanim/rayhantanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
